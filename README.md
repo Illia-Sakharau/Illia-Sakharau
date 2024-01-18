@@ -12,14 +12,16 @@ I have spent the previous year in Frontend development and can confidently say t
 
 ### 📫 How to reach me
 <div>
-  <a href="https://t.me/IliyaSakharov" target="_blank">
+  <a target="_blank" href="https://t.me/IliyaSakharov">
     <img height="32" src="/img/telegram.png" alt="Telegram"/>
   </a>
-  <a href="mailto:sakharovia0204@gmail.com">
-    <img height="32" src="/img/email.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sakharoviliya0204/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/sakharoviliya0204/">
     <img height="32" src="/img/linkedin.png" alt="LinkedIn"/>
+  </a>
+  
+  <a target="_blank" href="mailto:sakharovia0204@gmail.com">
+    <img height="32" src="/img/email.png" alt="Email"/>
+    sakharovia0204@gmail.com
   </a>
 </div>
 
