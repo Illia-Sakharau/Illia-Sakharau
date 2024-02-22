@@ -12,7 +12,7 @@ I have spent the previous year in Frontend development and can confidently say t
 
 ### 📫 How to reach me
 <div>
-  <a target="_blank" href="https://t.me/IliyaSakharov">
+  <a target="_blank" href="https://t.me/IlliaSakharau">
     <img height="32" src="/img/telegram.png" alt="Telegram"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/sakharoviliya0204/">
