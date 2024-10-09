@@ -100,7 +100,7 @@ I have spent the previous year in Frontend development and can confidently say t
 
 - Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/react/modules/module05)
 - Deploy: [link](https://rss-react-q4-fuizdzlql-illia-sakharaus-projects.vercel.app/gallery)
-- Code: [link](https://github.com/Illia-Sakharau/rss-react-q4/edit/next-ssr)
+- Code: [link](https://github.com/Illia-Sakharau/rss-react-q4/tree/next-ssr)
 - Screenshot:
 
 <img width="400" alt="exhi Screenshot" src="https://github.com/Illia-Sakharau/rss-react-q4/assets/124388500/a745cfbe-6e55-47d3-a94b-d638d005efa2">
